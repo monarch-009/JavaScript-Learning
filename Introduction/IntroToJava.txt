@@ -1,0 +1,9 @@
+* What is JavaScript?
+JavaScript is a progarmming language. We use it to give instruction to the computer.
+
+Input(code) -> Computer -> Output
+
+We use browser to learn js for the first time or for the basic understanding of it.
+After that we uses code editor to write more complex progarmming.
+
+
