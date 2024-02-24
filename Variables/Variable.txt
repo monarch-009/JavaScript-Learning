@@ -1,0 +1,25 @@
+* What is Variable
+-> Variable are containers for data.
+
+-> JavaScript is Dynamically Typed language in which we have the freedom to store any value in any Variable. 
+
+Variable Rules
+1. Variable names are case sensitive; "a" & "A" is different.
+2. Only letter, digit, underscore ( _ ) ans $ is allowed. (not even space).
+3. Only a letter, underscore( _ ) or $ should be 1st character.
+4. Reserved words cannot be variable names.
+
+* Use of Camel Case to write variable in JavaScript is the best practise. Eg: fullName. isFollow , totalPrice ...... 
+
+Types of Variable in JavaScript
+1. var : 
+-> Variable can be re-declared & updated. A global scope variable.
+
+2. let 
+-> Variable cannot be re-declared but can be updated. A block scope variable.
+
+3. const  
+-> Variable cannot be re-declared or updated. A block scope variable.
+
+Note:-> By default if any value is not assign to the variable it is undefined 
+
