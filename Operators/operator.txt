@@ -1,0 +1,19 @@
+Operator in js
+1. Arthmetic Operator ->  ( +, -, *, / ), Modulus(%) Exponentiation 
+Eg: a+b (here a and b is Operand & + is the Operator)
+
+2. Unary Operator -> Increment(++), Decrement(--)
+
+3. Assignment Operators -> To assign value ( = , += , -= , *=, /= )
+
+4. Comparison Operators
+Equal to (==)
+Equal to & type (===)
+Not equal to(!=)
+Not equal to & type(!==)
+(>,>=,<,<=)
+
+5. Logical Operator 
+Logical AND (&&)
+Logical OR (||)
+Logical NOT (!)
