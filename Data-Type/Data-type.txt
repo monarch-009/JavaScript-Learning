@@ -1,0 +1,10 @@
+# Data Type in js 
+There are two types;
+I. Primitive(7)   II. Non-Primitive()
+1. Number          1. Object -> Collection of value 
+2. String          -> Array 
+3. Boolean         {Key:value} 
+4. Undefined
+5. Null
+6. Bigint
+7. Symbol
